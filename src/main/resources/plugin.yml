@@ -1,0 +1,22 @@
+name: MinigameServer
+author: vivace
+version: 1.0
+main: me.vivace.game.Main
+description: minecraft minigame server vivace.kro.kr
+api-version: 1.16
+depend: [JDA]
+commands:
+  gradients:
+    usage: /<commands>
+  bs:
+    usage: /<commands>
+  monte:
+    usage: /<commands>
+  head:
+    usage: /<commands>
+  vector:
+    usage: /<commands>
+  yacht:
+    usage: /<commands> <playername> <playername>
+  graphs:
+    usage: /<commands>
